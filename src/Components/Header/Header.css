@@ -1,0 +1,11 @@
+.header-container{}
+
+.header-img{
+    margin: auto;
+    margin-top: 20px;
+    max-width: 1600px;
+    height: 400px;
+    border: 20px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuiG-24G1s0iFpmBuC7i-uN4tKxMdYkqyiA&usqp=CAU);
+    background-size: cover;
+}

@@ -1,0 +1,17 @@
+.electronics-container{
+    margin-top: 15px;
+    padding: 30px;
+}
+
+.electronics-header{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.electronics-list{
+    margin-top: 30px;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    gap: 15px;
+}
